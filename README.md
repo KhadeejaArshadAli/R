@@ -1,2 +1,2 @@
-# R
-This codes gives a detail insight of the tragic incident of Titanic through multiple kind of visual representation.
+# R Project
+This codes gives helps you to understand the different aspects of the tragic incident of "Titanic" through multiple kinds of visual representation.
